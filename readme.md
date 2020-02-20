@@ -8,6 +8,17 @@
 </p>
 
 ## About Laravel
+Instalacja Win:
+https://www.webhostface.com/kb/knowledgebase/install-laravel-windows/
+Konfiguracja Projektu:
+https://devmarketer.io/learn/setup-laravel-project-cloned-github-com/
+
+Pliki Front-End:
+resources/views/*.blade.php
+
+Pliki js, css, img
+public/
+
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
